@@ -1,0 +1,8 @@
+import Vue from 'vue'
+import ElementUI from 'element-ui'
+import VueRouter from 'vue-router'
+import Vuex from 'vuex'
+import HighCharts from 'highcharts'
+import * as d3 from 'd3'
+import babelPolyfill from 'babel-polyfill'
+import fetch from 'isomorphic-fetch'
